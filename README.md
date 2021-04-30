@@ -5,7 +5,7 @@
 🌱 I am currently learning about web development by creating and developing responsive websites.<br>
 👯 I am open to work in Full Stack Web Development.
 
-# 📫 How to reach me: 
+# 📫 Connect with me: 
 
 
 ###  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gopichandanasiri@gmail.com)
