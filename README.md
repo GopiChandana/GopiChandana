@@ -10,7 +10,7 @@
 
  ###   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gopichandanasiri@gmail.com)
  ###  [LINKED IN](www.linkedin.com/in/gopichandana)
- ###  [MEDIUM](https://gopichandana.medium.com/)
+ ###  [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://gopichandana.medium.com/)
  
 
 
