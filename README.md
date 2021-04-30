@@ -9,5 +9,7 @@
 # 📫 How to reach me: 
 
  ## 📧 [MAIL ME](mailto:gopichandanasiri@gmail.com)
+ 
+ ## ![image](https://user-images.githubusercontent.com/73213849/116671733-e83b1a80-a9be-11eb-92fd-2d8caba64942.png) [LINKED IN](www.linkedin.com/in/gopichandana)
 
 
