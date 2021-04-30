@@ -10,6 +10,6 @@
 
  ### 📧 [MAIL ME](mailto:gopichandanasiri@gmail.com)
  
- ### ![https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link] [LINKED IN](www.linkedin.com/in/gopichandana)
+
 
 
