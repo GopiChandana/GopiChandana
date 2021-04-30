@@ -1,4 +1,4 @@
-# Hello Devs,I am Gopi Chandana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👩🏻‍💻
+# Hello Devs,I am Gopi Chandana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 ## 📖 About me
 ### I am an Aspiring Full Stack Web Developer currently pursuing  web development course in MERN Stack at Masai School.Along with passion in web development,I love to creatively solve Data Structures and Algorithm problems. 
@@ -6,7 +6,7 @@
 🌱 I am currently learning more about web development by creating and developing responsive websites.<br>
 👯 I am open to work in Full Stack Web Development.
 
-## 🛠  Tech Stack
+## 👩🏻‍💻  Tech Stack
 <p align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
