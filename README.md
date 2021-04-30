@@ -8,6 +8,7 @@
 # 📫 How to reach me: 
 
  ### 📧 [MAIL ME](mailto:gopichandanasiri@gmail.com)
+ ###  [LINKEDIN](www.linkedin.com/in/gopichandana)
  
 
 
