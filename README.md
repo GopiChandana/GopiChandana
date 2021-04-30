@@ -10,6 +10,6 @@
 
  ## 📧 [MAIL ME](mailto:gopichandanasiri@gmail.com)
  
- ## ![image](https://th.bing.com/th/id/R261195b1b8c2a3df5376543a2125f4f3?rik=m9RwWq17oCNzJQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2falecive%2fflatwoken%2f48%2fApps-Linkedin-icon.png&ehk=%2bPvG0%2fweGgIVnujAnUrWP64kC7nhQw5qxApAQ9OX2LY%3d&risl=&pid=ImgRaw) [LINKED IN](www.linkedin.com/in/gopichandana)
+ ## ![image](https://th.bing.com/th/id/R261195b1b8c2a3df5376543a2125f4f3?rik=m9RwWq17oCNzJQ&riu=http%3a%2f%2ficons.iconarchive.com%2ficons%2falecive%2fflatwoken%2f48%2fApps-Linkedin-icon.png&ehk=%2bPvG0%2fweGgIVnujAnUrWP64kC7nhQw5qxApAQ9OX2LY%3d&risl=&pid=ImgRaw=10x10) [LINKED IN](www.linkedin.com/in/gopichandana)
 
 
