@@ -8,6 +8,6 @@
 
 # 📫 How to reach me: 
 
- [📧](mailto:gopichandanasiri@gmail.com)
+ ## 📧 [MAIL ME](mailto:gopichandanasiri@gmail.com)
 
 
