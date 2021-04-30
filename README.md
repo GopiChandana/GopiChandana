@@ -1,4 +1,4 @@
-# Hey there,I am Gopi Chandana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👩🏻‍💻
+# Hello Devs,I am Gopi Chandana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👩🏻‍💻
 
 ## 📖 About me
 ### I am an Aspiring Full Stack Web Developer currently pursuing  web development course in MERN Stack at Masai School.Along with passion in web development,I love to creatively solve Data Structures and Algorithm problems. 
