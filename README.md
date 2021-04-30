@@ -7,11 +7,10 @@
 
 # 📫 How to reach me: 
 
- ###  [MAIL ME](mailto:gopichandanasiri@gmail.com)
+
+ ###  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> [MAIL ME](mailto:gopichandanasiri@gmail.com)
  ###  [LINKED IN](www.linkedin.com/in/gopichandana)
  ###  [MEDIUM](https://gopichandana.medium.com/)
- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/gopichandana)
- <a href="https://www.linkedin.com/in/gopichandana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
 
 
