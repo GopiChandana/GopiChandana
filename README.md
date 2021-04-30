@@ -27,5 +27,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GopiChandana&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Gopi Chandana :: Profile Stats" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GopiChandana&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"><p/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GopiChandana&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=black"><p/>
 
