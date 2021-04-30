@@ -16,13 +16,7 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <p/>
 
-## 🤝 Let's Connect 
-<p align="center">
-<br>
-<a href="mailto:gopichandanasiri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/gopichandana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://gopichandana.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
- 
+
 ## 📊 Git Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopiChandana&langs_count=4&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" alt="Gopi Chandana :: Top Langs" /></p>
 
@@ -30,3 +24,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GopiChandana&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=black"><p/>
 
+## 🤝 Let's Connect 
+<p align="center">
+<br>
+<a href="mailto:gopichandanasiri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/gopichandana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://gopichandana.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+ 
