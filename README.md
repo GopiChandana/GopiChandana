@@ -1,30 +1,19 @@
 # Gopi Chandana
 
-**Frontend Engineer | React • JavaScript**
+**Frontend Engineer | React • JavaScript • TypeScript**
 
----
-
-## About
-
-Frontend-focused engineer building responsive, performant, and maintainable web applications with React and JavaScript.
-
-Currently strengthening:
-- Advanced JavaScript fundamentals
-- React internals and rendering optimization
-- Data Structures & Algorithms for problem-solving depth
-
----
+Frontend-focused engineer building responsive, maintainable web applications and learning by turning React concepts into practical features.
 
 ## Featured Project
 
 ### 🍛 Gopi's Bhojanalaya
 
-A restaurant ordering app with a twist: **the cart itself has a rewindable history**.
+A restaurant ordering **single-page React application** built as the first active project in my **React Rewind** monorepo.
 
-Built as part of **React Rewind**, a React learning monorepo focused on turning concepts into working features.
+The app goes beyond a basic ordering flow with a **rewindable cart history**, allowing users to undo, redo, and restore previous cart states.
 
 **Highlights:**
-- ⏪ Rewind / redo cart history with timeline navigation
+- ⏪ Rewind / redo cart history with Timeline / Food Ledger
 - 🧾 Action audit trail with timestamps
 - 🔄 Cross-tab state synchronization
 - 💾 Persistent cart/session state
@@ -34,30 +23,35 @@ Built as part of **React Rewind**, a React learning monorepo focused on turning 
 **Live:** https://gopis-bhojanalaya.vercel.app  
 **Code:** https://github.com/GopiChandana/react-rewind
 
----
+## React Rewind — Monorepo
+
+A learning monorepo where I build real React applications while documenting concepts and implementations along the way.
+
+```text
+react-rewind/
+├── apps/
+│   ├── bhojanalaya/       # Active application
+│   └── shared-utils/      # Shared package
+├── docs/                  # React notes & documentation
+├── my-code-implementations-with-explanations/
+└── package.json
+```
+
+More applications will be added as they progress.
 
 ## Core Stack
 
-- React
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- Redux Toolkit
-- Tailwind CSS
-- HTML5
-- CSS3
-
----
+**Frontend:** React • Next.js • JavaScript • TypeScript • Redux Toolkit  
+**Styling:** Tailwind CSS • HTML5 • CSS3  
+**Tools:** Parcel • npm Workspaces • Git • GitHub
 
 ## Engineering Focus
 
-- Clean component architecture
-- Performance optimization
-- State management patterns
-- Writing predictable, maintainable code
-- Continuous improvement through DSA and system thinking
-
----
+- Component architecture and reusable UI
+- State management and predictable data flow
+- Performance and responsive interfaces
+- Writing clean, maintainable code
+- Strengthening React and JavaScript fundamentals
 
 ## Connect
 
